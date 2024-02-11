@@ -27,9 +27,6 @@ image_array_1D = image_array.flatten()
 
 #   print(image_array_1D)
 
-# Initialize Packet Info
-packet_size = 1025
-
 
 # Loop through all packets
 # Track: Index of image array, packet number,
